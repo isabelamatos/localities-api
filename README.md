@@ -1,10 +1,10 @@
-# localities-api
+## localities-api
 Microservice that consumes IBGE APIs to generate and download files with locality data.
 
 **To run this application:** 
 
     $ mvn clean install
-    $ java -jar target/evoluum-challenge-1.0.0.jar
+    $ java -jar target/localities-api-1.0.0.jar
 
 **Application endpoints:** 
 
